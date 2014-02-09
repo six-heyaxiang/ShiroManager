@@ -1,4 +1,4 @@
-package com.shiromanager.bean;
+package com.shiromanager.realms;
 
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;

@@ -29,7 +29,7 @@
     <bean id="lifecycleBeanPostProcessor" class="org.apache.shiro.spring.LifecycleBeanPostProcessor" />
 
     <!--自定义Realm 继承自AuthorizingRealm -->
-    <bean id="monitorRealm" class="com.shiromanager.bean.TestRealm"></bean>
+    <bean id="monitorRealm" class="com.shiromanager.realms.TestRealm"></bean>
     <!-- securityManager -->
     <bean
             class="org.springframework.beans.factory.config.MethodInvokingFactoryBean">

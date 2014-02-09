@@ -1,4 +1,4 @@
-package com.shiromanager.bean;
+package com.shiromanager.realms;
 
 import com.shiromanager.Utils.EncryptUtils;
 import com.shiromanager.account.bean.User;
